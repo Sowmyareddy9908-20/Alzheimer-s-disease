@@ -1,0 +1,19 @@
+
+================================
+        PATIENT REPORT
+================================
+
+Age           : 70.0
+Memory Score  : 5.0
+Thinking      : 7.0
+Decision      : 20.0
+
+MRI Status    : Possible Alzheimer Pattern
+
+Risk Level    : LOW
+Prediction    : Normal
+
+Recommendation:
+Healthy Lifestyle
+
+================================
